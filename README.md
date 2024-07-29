@@ -1,11 +1,9 @@
-[![Rianda Fuad Shafly's github stats](https://github-readme-stats.vercel.app/api?username=rndzx&show_icons=true&theme=dracula)](https://github.com/rndzx/rndzx)
-
-### Hii, My name is Rianda Fuad Shafly👋
-- I Like Anime and Manga
-- Editing & Programming
+### Hii, My name is Erlangga Candra👋
+- I love learning how AI works
+- I like learning about cyber security
 - and You
 
-### 📊 Weekly development breakdown
+### 🛠 Weekly development breakdown
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
@@ -17,14 +15,14 @@
 ```text
 🕑︎ Time Zone: Asia/Jakarta
 
-💬 Programming Languages: 
+</> Programming Languages: 
+Python , JavaScript , PHP , DLL
+
+💻 Editors: 
 No Activity Tracked This Week
 
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
+⚙️ Operating System: 
+Windows 11 , Kali linux , Debian 10
 ```
 
 **MY ABILITY** 
@@ -33,6 +31,7 @@ No Activity Tracked This Week
 Scaning                                ███████████████████░░░░  72.46 % 
 Exploit                                ████████████░░░░░░░░░░░  43.08 %
 Study                                  ██████████████████████░  96.01 %
+AI                                     ██████████████████░░░░░  65.03 %
 ```
 
 
