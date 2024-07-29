@@ -3,12 +3,10 @@
 - I like learning about cyber security
 - and You
 
-### 🛠 Weekly development breakdown
-
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+### ✨Thank you to the teachers of SMK MUH3 Solo
+- Franky
+- Tri
+- Kurniasari
 
 📊 **This Week I Spent My Time On** 
 
