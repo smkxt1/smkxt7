@@ -27,23 +27,19 @@ No Activity Tracked This Week
 No Activity Tracked This Week
 ```
 
-**I Mostly Code in Python** 
+**MY ABILITY** 
 
 ```text
-Python                   5 repos             ██████████░░░░░░░░░░░░░░░   38.46 % 
-HTML                     3 repos             ██████░░░░░░░░░░░░░░░░░░░   23.08 % 
-Shell                    2 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
-CSS                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
-PHP                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
+Scaning                                ███████████████████░░░░  72.46 % 
+Exploit                                ████████████░░░░░░░░░░░  43.08 %
+Study                                  ██████████████████████░  96.01 %
 ```
 
 
 
 
- Last Updated on 29/07/2024 00:36:24 UTC
+ Last Updated on 30/07/2024 01:03 UTC
 <!--END_SECTION:waka-->
 
 ### 📫 Contact Me
-- Facebook - [Rianda ID](https://facebook.com/negevian.id)
-- Twitter - [@rianda_id](https://twitter.com/rianda_id)
-- Blog - [https://rianda-tech.my.id](https://rianda-tech.my.id)
+- Sekolah - [SMK Muhammadiyah 3 Surakarta](https://smkmuh3solo.sch.id)
