@@ -16,8 +16,8 @@
 </> Programming Languages: 
 Python , JavaScript , PHP , DLL
 
-💻 Editors: 
-No Activity Tracked This Week
+💻 the hardware i use: 
+Laptop , Openwrt , Mikrotik
 
 ⚙️ Operating System: 
 Windows 11 , Kali linux , Debian 10
